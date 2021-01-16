@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'item card.dart';
 
-class MainScreen extends StatelessWidget {
+class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
